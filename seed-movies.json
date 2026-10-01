@@ -1,0 +1,10 @@
+[
+  {"title":"Interstellar","director":"Christopher Nolan","genre":"Science Fiction","release_year":2014,"rating":8.7,"description":"A group of astronauts travel through a wormhole in search of a new home for humanity.","image":"https://placehold.co/400x600?text=Interstellar"},
+  {"title":"Spider-Man: Into the Spider-Verse","director":"Bob Persichetti","genre":"Animation","release_year":2018,"rating":8.4,"description":"Miles Morales becomes Spider-Man and meets heroes from other dimensions.","image":"https://placehold.co/400x600?text=Spider-Verse"},
+  {"title":"Inception","director":"Christopher Nolan","genre":"Action","release_year":2010,"rating":8.8,"description":"A thief who steals secrets through dreams is given a chance to plant an idea instead.","image":"https://placehold.co/400x600?text=Inception"},
+  {"title":"Parasite","director":"Bong Joon-ho","genre":"Drama","release_year":2019,"rating":8.5,"description":"A poor family schemes its way into the lives of a wealthy household.","image":"https://placehold.co/400x600?text=Parasite"},
+  {"title":"Coco","director":"Lee Unkrich","genre":"Animation","release_year":2017,"rating":8.4,"description":"A boy enters the Land of the Dead to uncover his family's musical past.","image":"https://placehold.co/400x600?text=Coco"},
+  {"title":"The Grand Budapest Hotel","director":"Wes Anderson","genre":"Comedy","release_year":2014,"rating":8.1,"description":"A legendary concierge and his lobby boy get tangled in a theft and a family fortune.","image":"https://placehold.co/400x600?text=Grand+Budapest"},
+  {"title":"Mad Max: Fury Road","director":"George Miller","genre":"Action","release_year":2015,"rating":8.1,"description":"In a desert wasteland, Furiosa and Max flee a tyrant across a relentless chase.","image":"https://placehold.co/400x600?text=Mad+Max"},
+  {"title":"Get Out","director":"Jordan Peele","genre":"Horror","release_year":2017,"rating":7.8,"description":"A visit to his girlfriend's family estate reveals a disturbing secret.","image":"https://placehold.co/400x600?text=Get+Out"}
+]
